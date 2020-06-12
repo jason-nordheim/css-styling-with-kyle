@@ -72,4 +72,14 @@ body {
 .call-to-action > p {
     font-weight: 900;
     font-size: 64px;
+    margin-bottom: 30px;
+}
+.call-to-action > a {
+    padding: 24px 32px;
+    background-color: hsl(120, 40%, 70%);
+    box-shadow: 0 2px 2px hsl(120, 40%, 20%); 
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff; 
+    font-weight: 900;
 }
